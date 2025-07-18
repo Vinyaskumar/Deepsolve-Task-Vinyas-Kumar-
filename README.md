@@ -30,7 +30,7 @@ A backend API project built using **FastAPI** that fetches **brand-related infor
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/shopify-insights-api.git
+git clone https://github.com/Vinyaskumar/shopify-insights-api.git
 cd shopify-insights-api
 
 ## 2. Install dependencies
